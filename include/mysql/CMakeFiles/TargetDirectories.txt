@@ -1,0 +1,6 @@
+/mnt/c/Users/JAVSamonte/Documents/Github/Data_Push_Pull_Testing/include/mysql/CMakeFiles/install/strip.dir
+/mnt/c/Users/JAVSamonte/Documents/Github/Data_Push_Pull_Testing/include/mysql/CMakeFiles/install/local.dir
+/mnt/c/Users/JAVSamonte/Documents/Github/Data_Push_Pull_Testing/include/mysql/CMakeFiles/install.dir
+/mnt/c/Users/JAVSamonte/Documents/Github/Data_Push_Pull_Testing/include/mysql/CMakeFiles/list_install_components.dir
+/mnt/c/Users/JAVSamonte/Documents/Github/Data_Push_Pull_Testing/include/mysql/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/JAVSamonte/Documents/Github/Data_Push_Pull_Testing/include/mysql/CMakeFiles/edit_cache.dir
